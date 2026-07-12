@@ -32,4 +32,16 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
