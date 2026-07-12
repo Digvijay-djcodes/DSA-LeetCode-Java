@@ -18,6 +18,7 @@
 | [0018-4sum](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
