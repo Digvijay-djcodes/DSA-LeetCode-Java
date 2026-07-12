@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Linked List
@@ -65,6 +67,7 @@
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -77,4 +80,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
