@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0075-sort-colors) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
