@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
