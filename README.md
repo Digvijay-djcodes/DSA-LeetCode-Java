@@ -44,4 +44,12 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0700-search-in-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
