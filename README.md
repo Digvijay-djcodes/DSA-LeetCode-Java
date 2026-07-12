@@ -62,4 +62,16 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0102-binary-tree-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Digvijay-djcodes/DSA-LeetCode-Java/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
